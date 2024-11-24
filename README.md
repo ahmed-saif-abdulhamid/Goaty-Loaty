@@ -11,4 +11,4 @@
 ---
 
 ## **Credits**
-Built using [Pygame](https://www.pygame.org/).
+Built using Ahmed Saif El-Deen - Mohab Ahmed - Ahmed Mando - Mohamed Bakry
